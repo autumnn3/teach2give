@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Get the image element
+     // Get the image element
     const dashboardImage = document.getElementById('dashboard-image');
     
     // Set the image source
